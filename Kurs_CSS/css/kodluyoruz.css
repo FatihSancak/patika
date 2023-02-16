@@ -1,0 +1,62 @@
+/*
+Class ve ID kullanımı
+
+class -> .text-red{}
+
+id -> #id-bilgsi{} bir tane olabilir.
+
+*/
+h1, h2, h3, h4, h5, h6 {
+    color:#202020;
+}
+h1{
+    font-size: 30px;
+  
+}
+#first-article {
+    font-size: 40px;
+}
+.text-red {
+    color: red;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+/************** Layout ***************
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1 {
+    color: deeppink;
+    font-size: 74px;
+}
+
+h2 {
+    color: red;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 40px;
+
+}
+
+ul {
+    color: cadetblue;
+}
+*/
