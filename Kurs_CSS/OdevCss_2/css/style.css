@@ -1,0 +1,66 @@
+
+
+.container {
+    width: 95%;
+    /* 
+    margin-left: auto;
+    margin-right: auto; 
+    */
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+.content {
+    margin-top: 10px;
+    width: 100%;
+    float: left;
+    /*margin: 50px auto 0;*/
+}
+
+div.container>div.card>p {
+    margin-top: 0;
+}
+
+/*.card {
+    float: left;
+    height: 15px;
+    padding: 5%;
+    background-color: cyan;
+    margin-right: 0.5%;
+    font-size: 20px;
+    vertical-align: top;
+    margin-top: 0
+
+}*/
+
+
+.card {
+    height: 5px;
+    padding: 5%;
+    margin-right: 10px;
+    background-color: cyan;
+    margin-right: 0.5%;
+    font-size: 15px;
+    margin-top: 0;
+    float: left;
+    vertical-align: middle;
+    
+}
+
+.clear {
+    clear: both;
+}
+p {
+    margin: 0;
+    padding: 0;
+
+}
+
+.box {
+   
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: 10px;
+  }
+  

@@ -31,6 +31,32 @@ h1{
 .fs-30 {
     font-size: 30px;
 }
+/*
+CSS SELECTORS
+*/
+ /* li:first-child{
+    color:green;
+}
+li:last-child{
+    color:red;
+} */
+
+/* li:nth-child(odd){
+   color: red;
+}
+li:nth-child(even){
+    background-color: blue;
+}
+
+.color-blue .fw-normal{
+    color: blue;
+    font-weight: normal;
+} */
+
+li:nth-child(2n+1){
+    color: brown;
+}
+
 
 /************** Layout ***************
 body {
