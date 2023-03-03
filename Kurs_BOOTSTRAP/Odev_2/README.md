@@ -2,4 +2,4 @@
 <h3>Instagram Sayfası Güncelleme</h3>
 <p>Verilen yönergeler kapsamında Instagram Sayfasının yeniden yapılandırılması yapıldı.</p>
 
-<img src="deov_2.png">
+<img src="odev_2.png">
