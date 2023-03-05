@@ -1,3 +1,4 @@
+        <h1>Proje 1</h1>
         <h2> [22, 27, 16, 2, 18, 6]'den oluşan diziyi Insorting Sort kullanarak sıralama adımları:</h2>
         <p>[<span style="color: red;font-weight: bold;">22, 27</span>, 16, 2, 18, 6]</p>
         <p> [<span style="color: red;font-weight: bold;"> 16</span>, 22, 27, 2, 18, 6] </p>
