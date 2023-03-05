@@ -13,4 +13,4 @@
  2     4
  ```
  
- ## Root 7’dir. Rootun sağında [8, 9] bulunur. Rootun solunda [ 0, 1, 2, 3, 4, 5, 6] bulunur. 
+ ## Root 7’dir. Rootun sağında [8, 9], solunda [ 0, 1, 2, 3, 4, 5, 6] bulunur. 
