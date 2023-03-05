@@ -1,4 +1,4 @@
-# [16,21,11,8,12,22] -> Merge Sort
+# [ 16,21,11,8,12,22 ] -> Merge Sort
 ## Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 1. 
@@ -35,13 +35,13 @@
 
 Sonuç
 ```
-[8, 11, 12, 16, 21, 22] dizesi oluşur.
+[ 8, 11, 12, 16, 21, 22 ]  dizesi oluşur.
 ```
 
 
 ## Big-O gösterimini yazınız.
 Merge Sort algoritmasının en kötü durum zaman karmaşıklığı O(nlog(n))'dir. 
-Bu nedenle, [16,21,11,8,12,22] dizisi Merge Sort ile sıralandığında da zaman karmaşıklığı O(nlog(n)) olacaktır.
+Bu nedenle, [ 16,21,11,8,12,22 ] dizisi Merge Sort ile sıralandığında da zaman karmaşıklığı O(nlog(n)) olacaktır.
 
 
 
