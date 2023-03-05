@@ -24,5 +24,5 @@ Avarage Case
 [2,3,4,8,7,9,5,15,6]
 [2,3,4,5,7,9,8,15,6]
 ``` 
-(https://www.halildurmus.com/wp-content/uploads/2021/01/Insertion-Sort-Algorithms.gif)
-(https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png)
+![Sorting](https://www.halildurmus.com/wp-content/uploads/2021/01/Insertion-Sort-Algorithms.gif)
+![Sorting](https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png)
