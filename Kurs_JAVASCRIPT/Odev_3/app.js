@@ -83,7 +83,6 @@ const menu = [
 ];
 
 
-// butonlar oluşturuluyor.
 const container = document.querySelector('.btn-container');
 
 const buttonAll = document.createElement('button');
@@ -109,8 +108,6 @@ buttonChina.textContent = 'China';
 buttonChina.classList.add('btn', 'btn-outline-danger', 'btn-item');
 buttonChina.setAttribute('type', 'button');
 container.appendChild(buttonChina);
-// butonlar oluşturuldu.
-
 
 const filterCategory = (category) => {
   if (category === 'All') return menu;
@@ -137,18 +134,15 @@ const showMenu = (menuList) => {
   });
 }
 
-// butondan gelen kategori return'ü filterCategory fonksiyonunun parametresi oluyor. filterCategory fonksiyonunun return'ü ise showMenu fonksiyonunun parametresi oluyor ve son olarak showMenu fonksiyonu bize menüyü gösteriyor.
 const eventHandler = (filterText) => {
   showMenu(filterCategory(filterText));
 };
 
-// hangi butona tıklandığı bilgisini alıyoruz eventHandler fonksiyonunu bu değerle çağırıyoruz. go to 132
 buttonAll.addEventListener("click", () => eventHandler("All"));
 buttonJapan.addEventListener("click", () => eventHandler("Japan"));
 buttonKorea.addEventListener("click", () => eventHandler("Korea"));
 buttonChina.addEventListener("click", () => eventHandler("China"));
 
-// sayfa yüklendiğinde çağrılıyor ki menünün tamamı görünsün.
 window.addEventListener("DOMContentLoaded", () => {
   eventHandler("All");
 });
