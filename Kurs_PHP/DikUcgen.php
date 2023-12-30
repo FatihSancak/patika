@@ -8,5 +8,4 @@ function ucgen($satirSayisi) {
         echo "<br>";
     }
 }
-
-ucgen(42);
+ucgen(25);
