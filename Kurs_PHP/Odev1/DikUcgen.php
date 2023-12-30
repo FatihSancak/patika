@@ -1,6 +1,5 @@
 <?php
-
-function ucgen($satirSayisi) {
+gen($satirSayisi) {
     for ($i = 1; $i <= $satirSayisi; $i++) {
         for ($j = 1; $j <= $i; $j++) {
             echo "O ";
